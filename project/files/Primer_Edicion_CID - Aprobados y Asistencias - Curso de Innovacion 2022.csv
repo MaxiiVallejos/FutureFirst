@@ -1,0 +1,162 @@
+fecha,sexo,edad,nivel_max__estudios_alcanzados,ocupacion_principal,lugar_de_residencia,clase_de_introccion_al_emprendedurismo,clase_de_herramientas_basicas_para_organizar_tu_negocio,clase_de_apliaciones_para_crear_la_identidad_de_tu_emprendimiento,clase_google_calendar_y_asana,calidad_certificado
+1/04/2022,Mujer,28,Universitario Incompleto,Estudiante,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,32,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,19,Secundario Completo,Estudiante,Corrientes Capital,True,True,True,false,aprobado
+1/04/2022,Hombre,47,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,36,Terciario Completo,Estudiante,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,37,Terciario Completo,Emprendedor,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,39,Terciario Incompleto,Desocupado/a,Interior de la Provincia de Corrientes,True,True,True,True,aprobado
+1/04/2022,Hombre,36,Secundario Completo,Trabajador/a en relacion de dependencia,Interior de la Provincia de Corrientes,True,false,True,false,asistencia
+1/04/2022,Mujer,36,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,false,True,True,false,asistencia
+1/04/2022,Hombre,25,Secundario Completo,Desocupado/a,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,39,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,40,Secundario Completo,Desocupado/a,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Mujer,40,Terciario Incompleto,Desocupado/a,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,38,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,52,Universitario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,21,Universitario Incompleto,Estudiante,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,34,Universitario Incompleto,Desocupado/a,Corrientes Capital,True,True,false,false,asistencia
+1/04/2022,Mujer,44,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,false,True,aprobado
+1/04/2022,Mujer,34,Universitario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,35,Terciario Completo,Trabajador/a en relacion de dependencia,Interior de la Provincia de Corrientes,True,false,false,True,asistencia
+1/04/2022,Mujer,41,Terciario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,36,Terciario Completo,Otro,Interior de la Provincia de Corrientes,True,false,false,false,asistencia
+1/04/2022,Mujer,31,Terciario Incompleto,Emprendedor,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Hombre,33,Universitario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,29,Terciario Completo,Estudiante,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,18,Secundario Completo,Estudiante,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,29,Universitario Incompleto,Estudiante,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,31,Universitario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,57,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,false,false,aprobado
+1/04/2022,Mujer,26,Terciario Completo,Desocupado/a,Corrientes Capital,True,True,false,false,asistencia
+1/04/2022,Mujer,42,Secundario Incompleto,Emprendedor,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,18,Secundario Completo,Desocupado/a,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,24,Terciario Incompleto,Estudiante,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,23,Terciario Incompleto,Estudiante,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,29,Universitario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,34,Terciario Completo,Estudiante,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,58,Universitario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Mujer,53,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,false,True,True,false,asistencia
+1/04/2022,Mujer,28,Terciario Completo,Estudiante,Corrientes Capital,false,True,false,false,asistencia
+1/04/2022,Hombre,35,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,false,aprobado
+1/04/2022,Hombre,43,Universitario Completo,Trabajador/a en relacion de dependencia,Otro,True,True,True,True,asistencia
+1/04/2022,Mujer,36,Terciario Incompleto,Emprendedor,Interior de la Provincia de Corrientes,True,True,True,True,asistencia
+1/04/2022,Hombre,19,Secundario Completo,Desocupado/a,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,29,Terciario Completo,Profesional Independiente,Otro,True,True,false,false,aprobado
+1/04/2022,Mujer,41,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,44,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,28,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,false,false,True,True,asistencia
+1/04/2022,Mujer,44,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Hombre,66,Secundario Incompleto,Otro,Interior de la Provincia de Corrientes,True,false,True,false,asistencia
+1/04/2022,Mujer,31,Universitario Completo,Otro,Corrientes Capital,false,false,True,false,aprobado
+1/04/2022,Mujer,38,Terciario Completo,Otro,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,41,Terciario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,26,Universitario Incompleto,Emprendedor,Corrientes Capital,false,True,false,True,aprobado
+1/04/2022,Mujer,60,Secundario Completo,Otro,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,55,Secundario Completo,Otro,Corrientes Capital,True,True,false,True,aprobado
+1/04/2022,Mujer,34,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Hombre,54,Terciario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,false,aprobado
+1/04/2022,Mujer,37,Universitario Completo,Emprendedor,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,26,Universitario Incompleto,Estudiante,Corrientes Capital,True,false,false,True,asistencia
+1/04/2022,Mujer,54,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,37,Universitario Completo,Estudiante,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,53,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,false,aprobado
+1/04/2022,Mujer,46,Terciario Completo,Profesional Independiente,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,37,Terciario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,26,Universitario Completo,Emprendedor,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,34,Terciario Completo,Emprendedor,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,37,Secundario Completo,Emprendedor,Interior de la Provincia de Corrientes,True,True,false,True,asistencia
+1/04/2022,Mujer,39,Universitario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,false,aprobado
+1/04/2022,Mujer,47,Universitario Completo,Trabajador/a en relacion de dependencia,Otro,True,True,True,True,aprobado
+1/04/2022,Mujer,46,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,54,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,True,aprobado
+1/04/2022,Mujer,40,Universitario Incompleto,Desocupado/a,Corrientes Capital,false,false,false,True,aprobado
+1/04/2022,Hombre,31,Universitario Incompleto,Estudiante,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,39,Terciario Completo,Desocupado/a,Corrientes Capital,True,True,True,false,asistencia
+1/04/2022,Mujer,45,Secundario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,31,Terciario Completo,Otro,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,38,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,45,Terciario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,32,Terciario Completo,Profesional Independiente,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,29,Terciario Completo,Otro,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,29,Universitario Incompleto,Estudiante,Corrientes Capital,True,True,True,false,asistencia
+1/04/2022,Mujer,49,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,36,Secundario Completo,Otro,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,46,Terciario Incompleto,Emprendedor,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,34,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,48,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,false,True,True,false,aprobado
+1/04/2022,Mujer,50,Universitario Incompleto,Otro,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,47,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,false,True,True,True,asistencia
+1/04/2022,Hombre,56,Universitario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,62,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,50,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,44,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,21,Secundario Completo,Estudiante,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Hombre,18,Secundario Completo,Estudiante,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,37,Universitario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,22,Universitario Incompleto,Estudiante,Corrientes Capital,false,True,True,True,aprobado
+1/04/2022,Mujer,41,Secundario Completo,Emprendedor,Corrientes Capital,True,True,false,false,asistencia
+1/04/2022,Hombre,17,Secundario Incompleto,Estudiante,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,52,Terciario Incompleto,Desocupado/a,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,41,Terciario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,false,asistencia
+1/04/2022,Mujer,49,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,false,True,True,True,asistencia
+1/04/2022,Mujer,42,Secundario Completo,Emprendedor,Corrientes Capital,True,True,false,True,aprobado
+1/04/2022,Mujer,37,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,27,Terciario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,false,false,True,True,aprobado
+1/04/2022,Mujer,47,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,false,false,aprobado
+1/04/2022,Mujer,26,Terciario Completo,Desocupado/a,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,55,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Hombre,26,Universitario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,50,Terciario Completo,Emprendedor,Corrientes Capital,True,false,false,false,aprobado
+1/04/2022,Mujer,41,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,46,Terciario Completo,Otro,Corrientes Capital,false,True,True,false,aprobado
+1/04/2022,Mujer,53,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,false,false,True,True,aprobado
+1/04/2022,Mujer,27,Secundario Completo,Estudiante,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,50,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,false,aprobado
+1/04/2022,Hombre,28,Universitario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,false,aprobado
+1/04/2022,Mujer,31,Otro,Trabajador/a en relacion de dependencia,Interior de la Provincia de Corrientes,false,True,True,True,aprobado
+1/04/2022,Mujer,52,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,false,True,asistencia
+1/04/2022,Mujer,24,Terciario Completo,Estudiante,Corrientes Capital,false,false,True,True,aprobado
+1/04/2022,Mujer,19,Secundario Completo,Desocupado/a,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Hombre,54,Universitario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,false,True,aprobado
+1/04/2022,Mujer,42,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,false,asistencia
+1/04/2022,Mujer,24,Terciario Completo,Trabajador/a en relacion de dependencia,Interior de la Provincia de Corrientes,True,True,True,True,aprobado
+1/04/2022,Mujer,25,Terciario Completo,Profesional Independiente,Interior de la Provincia de Corrientes,True,false,false,false,aprobado
+1/04/2022,Mujer,30,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,21,Secundario Completo,Estudiante,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Hombre,39,Universitario Incompleto,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Mujer,24,Terciario Completo,Estudiante,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,32,Secundario Completo,Emprendedor,Corrientes Capital,false,false,True,True,asistencia
+1/04/2022,Hombre,36,Terciario Completo,Profesional Independiente,Interior de la Provincia de Corrientes,True,True,false,True,aprobado
+1/04/2022,Mujer,26,Secundario Completo,Otro,Corrientes Capital,True,True,false,false,aprobado
+1/04/2022,Mujer,47,Terciario Completo,Otro,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,50,Terciario Incompleto,Desocupado/a,Interior de la Provincia de Corrientes,True,false,false,false,asistencia
+1/04/2022,Hombre,52,Otro,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,True,aprobado
+1/04/2022,Mujer,39,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,41,Otro,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Otro,40,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,50,Universitario Incompleto,Otro,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,23,Secundario Completo,Trabajador/a en relacion de dependencia,Interior de la Provincia de Corrientes,True,True,True,false,asistencia
+1/04/2022,Mujer,37,Universitario Incompleto,Emprendedor,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,42,Terciario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,false,false,True,false,aprobado
+1/04/2022,Hombre,41,Terciario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,asistencia
+1/04/2022,Mujer,24,Terciario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,false,asistencia
+1/04/2022,Mujer,29,Universitario Completo,Profesional Independiente,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Hombre,46,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,33,Terciario Completo,Estudiante,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,37,Terciario Completo,Desocupado/a,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Mujer,23,Secundario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,false,True,True,asistencia
+1/04/2022,Mujer,21,Secundario Completo,Estudiante,Interior de la Provincia de Corrientes,True,false,false,false,asistencia
+1/04/2022,Mujer,26,Secundario Completo,Estudiante,Corrientes Capital,True,false,false,false,asistencia
+1/04/2022,Mujer,55,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,false,false,aprobado
+1/04/2022,Mujer,43,Terciario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,30,Universitario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,39,Terciario Completo,Emprendedor,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,43,Secundario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,false,false,True,True,aprobado
+1/04/2022,Mujer,43,Secundario Completo,Otro,Corrientes Capital,false,false,false,True,aprobado
+1/04/2022,Mujer,47,Universitario Completo,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,42,Universitario Incompleto,Trabajador/a en relacion de dependencia,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,45,Terciario Incompleto,Desocupado/a,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,34,Universitario Incompleto,Emprendedor,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Hombre,46,Universitario Completo,Agente Municipal de la Municipalidad de Corrientes,Corrientes Capital,True,True,True,True,aprobado
+1/04/2022,Mujer,40,Terciario Completo,Desocupado/a,Corrientes Capital,True,True,True,True,aprobado
